@@ -31,10 +31,12 @@ H. Testbench top :
 				2) New method to mailbox. 
 				3) Connect interface . 
 				4) Perform connection between interface and dut. 
+    
+ Basicaly this is the summary of any testbench we are writting in system verilog means 
 
-    Basicaly this is the summary of any testbench we are writting in system verilog means 
+![image](https://github.com/kapi36/Verification-of-8-bit-AND-gate-using-SystemVerilog/assets/110424577/0c95fbc7-5041-485c-b4d8-015598303ec5)
 
-    ![image](https://github.com/kapi36/Verification-of-8-bit-AND-gate-using-SystemVerilog/assets/110424577/c4a1bfc6-fc9e-4685-831c-e2808c3e435b)
+   
 
 
 Results: 
